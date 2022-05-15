@@ -20,13 +20,13 @@ Hi, I'm Akshay👋
 
 🚩 𝐒𝐨𝐜𝐢𝐚𝐥𝐬:
 
-📌 GitHub: https://github.com/akshayhere3001
-
 📌 Linkedin: https://www.linkedin.com/in/akshay-vishwakarma-1b1b66237/
 
 📌 Twitter: https://twitter.com/akshay_01_30
 
 📌 Email: akshayvishwakarma512@gmail.com
+
+📌 Instagram: https://www.instagram.com/akshay_01_30/
 
 
 🤝 I love to share my resources and my experience with others.
