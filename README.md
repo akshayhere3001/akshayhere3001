@@ -10,9 +10,9 @@ Hi, I'm Akshay👋
 
 📌 Relevant Skills
 
-✅ Programming Languages: C, Python
+✅ Programming Languages: C, R, Java, Python
 
-✅ Front-end: HTML, CSS, JavaScript, React, Bootstrap, jQuery
+✅ Front-end: HTML, CSS, JavaScript, React
 
 ✅ Back-end: Node
 
