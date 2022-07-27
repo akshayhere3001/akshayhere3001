@@ -1,6 +1,6 @@
 Hi, I'm Akshay👋
 
-🎓 I am a First-Year Student at Institute of Management and Technology (ITM) University currently pursuing my bachelor's degree in Computer Science and Engineering.
+🎓 I am a Second-Year Student at Institute of Management and Technology (ITM) University currently pursuing my bachelor's degree in Computer Science and Engineering.
 ⚡ I am a Software Developer with experience in Development, with particular expertise in Web development.
 
 ✨ I am currently working on my MERN stack.
