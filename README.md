@@ -8,7 +8,6 @@ Hi, I'm Akshay👋
 🤹 Learning & sharing my Experience.
 
 📌 Relevant Skills
-
 ✅ Programming Languages: Java, Python
 
 ✅ Front-end: HTML, CSS, JavaScript, React
@@ -18,7 +17,6 @@ Hi, I'm Akshay👋
 ✅ Dev-Tools: Git, GitHub
 
 🚩 𝐒𝐨𝐜𝐢𝐚𝐥𝐬:
-
 📌 Linkedin: https://www.linkedin.com/in/akshay-vishwakarma-1b1b66237/
 
 📌 Twitter: https://twitter.com/akshay_01_30
