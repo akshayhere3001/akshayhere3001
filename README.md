@@ -1,6 +1,6 @@
 Hi, I'm Akshay👋
 
-🎓 I am a Second-Year Student at Institute of Management and Technology (ITM) University currently pursuing my bachelor's in Computer Science and Engineering.
+🎓 I am a Third-Year Student at Institute of Management and Technology (ITM) University currently pursuing my bachelor's in Computer Science and Engineering.
 
 ✨ I am currently working on my Problem Solving.
 👨‍💻 I am looking for opportunities in Web Development with a flair for solving problems as I learn new things.
