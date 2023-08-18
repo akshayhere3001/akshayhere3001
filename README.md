@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for help with [CodeIT](https://github.com/akshayhere3001/codeIT)
 
-- 💬 Ask me about **React.js, TailwindCSS, Javascript**
+- 💬 Ask me about **React.js and TailwindCSS**
 
 - 📫 How to reach me **akshayvishwakarma512@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1X0nPqOc55FqifMSQ4Z-rynZTDhK9xFGNTk7XuAUsA_o/edit?usp=sharing](https://docs.google.com/document/d/1X0nPqOc55FqifMSQ4Z-rynZTDhK9xFGNTk7XuAUsA_o/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YYB1Ezm9Js2suMhZ68M29CgINh4f4Xz6/view?usp=sharing](https://drive.google.com/file/d/1YYB1Ezm9Js2suMhZ68M29CgINh4f4Xz6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
